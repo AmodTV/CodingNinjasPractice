@@ -1,0 +1,2 @@
+# CodingNinjasPractice
+CodingNinjas Practice questions
